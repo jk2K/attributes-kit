@@ -1,5 +1,5 @@
 {
-  "name": "@jk2k/attributes-kit",
+  "name": "attributes-kit",
   "version": "0.18.6",
   "description": "React component for MSON rendering",
   "engines": {
